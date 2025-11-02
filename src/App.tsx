@@ -43,7 +43,7 @@ function App() {
 					<div className="flex flex-col sm:flex-row items-center justify-between py-4 gap-4">
 						<div className="flex items-center gap-4">
 							<h1 className="text-2xl sm:text-3xl font-bold bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-								Solana Wallet
+								OrbApp Wallet
 							</h1>
 						</div>
 
